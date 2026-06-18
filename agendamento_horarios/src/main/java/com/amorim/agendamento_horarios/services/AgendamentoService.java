@@ -33,4 +33,25 @@ public class AgendamentoService {
 
     public void deletarAgendamento(LocalDateTime dataHoraAgendamento, String cliente){
         agendamentoRepository.deleteByDataHoraAgendamentoAndCliente(dataHoraAgendamento, cliente);
-    }}
+
+
+    }
+    public Agendamento buscarAgendamentosDia(LocalDate data){
+        LocalDateTime primeiraHoraDia = data.atStartOfDay();
+        LocalDateTime horaFinalDia = data.atTime(23, 59, 59);
+
+        return agendamentoRepository.findByDataHoraAgendamentoAndCliente(primeiraHoraDia, horaFinalDia);
+    }
+
+    public Agendamento alteraarAgendamento(Agendamento agendamento, String cliente, LocalDateTime dataHoraAgendamento){
+       Agendamento agenda = agendamentoRepository.findByDataHoraAgendamentoAndCliente(dataHoraAgendamento, cliente);
+
+       if (Objects.isNull(agenda)){
+           throw new RuntimeException("Agendamento não encontrado");
+       }
+
+       agendamento.setId(agenda.getId());
+       return agendamentoRepository.save(agenda);
+
+    }
+}
