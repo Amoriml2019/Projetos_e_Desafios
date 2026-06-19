@@ -44,14 +44,17 @@ public class AgendamentoService {
     }
 
     public Agendamento alteraarAgendamento(Agendamento agendamento, String cliente, LocalDateTime dataHoraAgendamento){
-       Agendamento agenda = agendamentoRepository.findByDataHoraAgendamentoAndCliente(dataHoraAgendamento, cliente);
+        Agendamento agenda = agendamentoRepository.findByDataHoraAgendamentoAndCliente(dataHoraAgendamento, cliente);
 
-       if (Objects.isNull(agenda)){
-           throw new RuntimeException("Agendamento não encontrado");
-       }
+        if (Objects.isNull(agenda)){
+            throw new RuntimeException("Agendamento não encontrado");
+        }
 
-       agendamento.setId(agenda.getId());
-       return agendamentoRepository.save(agenda);
+        agendamento.setId(agenda.getId());
+        return agendamentoRepository.save(agenda);
 
+    }
+
+    public Agendamento alterarAgendamento(Agendamento agendamento, String cliente, LocalDateTime dataHoraAgendamento) {
     }
 }

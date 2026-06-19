@@ -17,4 +17,3 @@ public interface AgendamentoRepository extends JpaRepository<Agendamento, Long> 
     Agendamento findByDataHoraAgendamentoAndCliente(LocalDateTime dataHoraAgendamento, LocalDateTime dataHoraFinal);
     Agendamento findByDataHoraAgendamentoAndCliente(LocalDateTime dataHoraAgendamento, String cliente);
 }
-
