@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amori\\OneDrive\\Documentos\\GitHub\\Projetos_e_Desafios\\Cadastro de clientes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AA96CB-2531-55F4-0486-519F742F2562}|Cadastro de clientes\\Cadastro de clientes.csproj|c:\\users\\amori\\onedrive\\documentos\\github\\projetos_e_desafios\\cadastro de clientes\\cadastro de clientes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7AA96CB-2531-55F4-0486-519F742F2562}|Cadastro de clientes\\Cadastro de clientes.csproj|solutionrelative:cadastro de clientes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AA96CB-2531-55F4-0486-519F742F2562}|Cadastro de clientes\\Cadastro de clientes.csproj|c:\\users\\amori\\onedrive\\documentos\\github\\projetos_e_desafios\\cadastro de clientes\\cadastro de clientes\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7AA96CB-2531-55F4-0486-519F742F2562}|Cadastro de clientes\\Cadastro de clientes.csproj|solutionrelative:cadastro de clientes\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AA96CB-2531-55F4-0486-519F742F2562}|Cadastro de clientes\\Cadastro de clientes.csproj|C:\\Users\\amori\\OneDrive\\Documentos\\GitHub\\Projetos_e_Desafios\\Cadastro de clientes\\cadastro de clientes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7AA96CB-2531-55F4-0486-519F742F2562}|Cadastro de clientes\\Cadastro de clientes.csproj|solutionrelative:cadastro de clientes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AA96CB-2531-55F4-0486-519F742F2562}|Cadastro de clientes\\Cadastro de clientes.csproj|c:\\users\\amori\\onedrive\\documentos\\github\\projetos_e_desafios\\cadastro de clientes\\cadastro de clientes\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{B7AA96CB-2531-55F4-0486-519F742F2562}|Cadastro de clientes\\Cadastro de clientes.csproj|solutionrelative:cadastro de clientes\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\amori\\OneDrive\\Documentos\\GitHub\\Projetos_e_Desafios\\Cadastro de clientes\\Cadastro de clientes\\Form1.cs",
+              "RelativeDocumentMoniker": "Cadastro de clientes\\Form1.cs",
+              "ToolTip": "C:\\Users\\amori\\OneDrive\\Documentos\\GitHub\\Projetos_e_Desafios\\Cadastro de clientes\\Cadastro de clientes\\Form1.cs",
+              "RelativeToolTip": "Cadastro de clientes\\Form1.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAqwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T18:29:40.113Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\amori\\OneDrive\\Documentos\\GitHub\\Projetos_e_Desafios\\Cadastro de clientes\\Cadastro de clientes\\Form1.resx",
+              "RelativeDocumentMoniker": "Cadastro de clientes\\Form1.resx",
+              "ToolTip": "C:\\Users\\amori\\OneDrive\\Documentos\\GitHub\\Projetos_e_Desafios\\Cadastro de clientes\\Cadastro de clientes\\Form1.resx",
+              "RelativeToolTip": "Cadastro de clientes\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-07-27T23:47:42.904Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\amori\\OneDrive\\Documentos\\GitHub\\Projetos_e_Desafios\\Cadastro de clientes\\Cadastro de clientes\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Cadastro de clientes\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\amori\\OneDrive\\Documentos\\GitHub\\Projetos_e_Desafios\\Cadastro de clientes\\Cadastro de clientes\\Form1.Designer.cs",
+              "RelativeToolTip": "Cadastro de clientes\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T23:47:43.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\amori\\OneDrive\\Documentos\\GitHub\\Projetos_e_Desafios\\Cadastro de clientes\\Cadastro de clientes\\Form1.cs",
+              "RelativeDocumentMoniker": "Cadastro de clientes\\Form1.cs",
+              "ToolTip": "C:\\Users\\amori\\OneDrive\\Documentos\\GitHub\\Projetos_e_Desafios\\Cadastro de clientes\\Cadastro de clientes\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Cadastro de clientes\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T18:19:43.115Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
